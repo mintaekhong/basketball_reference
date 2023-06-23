@@ -1,0 +1,151 @@
+team_name,wins,losses,win_loss_pct,season_number,conference,league_champions
+Milwaukee Bucks,58,24,.707,2022-23,Eastern Conference,Denver Nuggets
+Boston Celtics,57,25,.695,2022-23,Eastern Conference,Denver Nuggets
+Philadelphia 76ers,54,28,.659,2022-23,Eastern Conference,Denver Nuggets
+Cleveland Cavaliers,51,31,.622,2022-23,Eastern Conference,Denver Nuggets
+New York Knicks,47,35,.573,2022-23,Eastern Conference,Denver Nuggets
+Brooklyn Nets,45,37,.549,2022-23,Eastern Conference,Denver Nuggets
+Miami Heat,44,38,.537,2022-23,Eastern Conference,Denver Nuggets
+Atlanta Hawks,41,41,.500,2022-23,Eastern Conference,Denver Nuggets
+Toronto Raptors,41,41,.500,2022-23,Eastern Conference,Denver Nuggets
+Chicago Bulls,40,42,.488,2022-23,Eastern Conference,Denver Nuggets
+Indiana Pacers,35,47,.427,2022-23,Eastern Conference,Denver Nuggets
+Washington Wizards,35,47,.427,2022-23,Eastern Conference,Denver Nuggets
+Orlando Magic,34,48,.415,2022-23,Eastern Conference,Denver Nuggets
+Charlotte Hornets,27,55,.329,2022-23,Eastern Conference,Denver Nuggets
+Detroit Pistons,17,65,.207,2022-23,Eastern Conference,Denver Nuggets
+Denver Nuggets,53,29,.646,2022-23,Western Conference,Denver Nuggets
+Memphis Grizzlies,51,31,.622,2022-23,Western Conference,Denver Nuggets
+Sacramento Kings,48,34,.585,2022-23,Western Conference,Denver Nuggets
+Phoenix Suns,45,37,.549,2022-23,Western Conference,Denver Nuggets
+Los Angeles Clippers,44,38,.537,2022-23,Western Conference,Denver Nuggets
+Golden State Warriors,44,38,.537,2022-23,Western Conference,Denver Nuggets
+Los Angeles Lakers,43,39,.524,2022-23,Western Conference,Denver Nuggets
+Minnesota Timberwolves,42,40,.512,2022-23,Western Conference,Denver Nuggets
+New Orleans Pelicans,42,40,.512,2022-23,Western Conference,Denver Nuggets
+Oklahoma City Thunder,40,42,.488,2022-23,Western Conference,Denver Nuggets
+Dallas Mavericks,38,44,.463,2022-23,Western Conference,Denver Nuggets
+Utah Jazz,37,45,.451,2022-23,Western Conference,Denver Nuggets
+Portland Trail Blazers,33,49,.402,2022-23,Western Conference,Denver Nuggets
+Houston Rockets,22,60,.268,2022-23,Western Conference,Denver Nuggets
+San Antonio Spurs,22,60,.268,2022-23,Western Conference,Denver Nuggets
+Miami Heat,53,29,.646,2021-22,Eastern Conference,Golden State Warriors
+Boston Celtics,51,31,.622,2021-22,Eastern Conference,Golden State Warriors
+Milwaukee Bucks,51,31,.622,2021-22,Eastern Conference,Golden State Warriors
+Philadelphia 76ers,51,31,.622,2021-22,Eastern Conference,Golden State Warriors
+Toronto Raptors,48,34,.585,2021-22,Eastern Conference,Golden State Warriors
+Chicago Bulls,46,36,.561,2021-22,Eastern Conference,Golden State Warriors
+Brooklyn Nets,44,38,.537,2021-22,Eastern Conference,Golden State Warriors
+Cleveland Cavaliers,44,38,.537,2021-22,Eastern Conference,Golden State Warriors
+Atlanta Hawks,43,39,.524,2021-22,Eastern Conference,Golden State Warriors
+Charlotte Hornets,43,39,.524,2021-22,Eastern Conference,Golden State Warriors
+New York Knicks,37,45,.451,2021-22,Eastern Conference,Golden State Warriors
+Washington Wizards,35,47,.427,2021-22,Eastern Conference,Golden State Warriors
+Indiana Pacers,25,57,.305,2021-22,Eastern Conference,Golden State Warriors
+Detroit Pistons,23,59,.280,2021-22,Eastern Conference,Golden State Warriors
+Orlando Magic,22,60,.268,2021-22,Eastern Conference,Golden State Warriors
+Phoenix Suns,64,18,.780,2021-22,Western Conference,Golden State Warriors
+Memphis Grizzlies,56,26,.683,2021-22,Western Conference,Golden State Warriors
+Golden State Warriors,53,29,.646,2021-22,Western Conference,Golden State Warriors
+Dallas Mavericks,52,30,.634,2021-22,Western Conference,Golden State Warriors
+Utah Jazz,49,33,.598,2021-22,Western Conference,Golden State Warriors
+Denver Nuggets,48,34,.585,2021-22,Western Conference,Golden State Warriors
+Minnesota Timberwolves,46,36,.561,2021-22,Western Conference,Golden State Warriors
+Los Angeles Clippers,42,40,.512,2021-22,Western Conference,Golden State Warriors
+New Orleans Pelicans,36,46,.439,2021-22,Western Conference,Golden State Warriors
+San Antonio Spurs,34,48,.415,2021-22,Western Conference,Golden State Warriors
+Los Angeles Lakers,33,49,.402,2021-22,Western Conference,Golden State Warriors
+Sacramento Kings,30,52,.366,2021-22,Western Conference,Golden State Warriors
+Portland Trail Blazers,27,55,.329,2021-22,Western Conference,Golden State Warriors
+Oklahoma City Thunder,24,58,.293,2021-22,Western Conference,Golden State Warriors
+Houston Rockets,20,62,.244,2021-22,Western Conference,Golden State Warriors
+Philadelphia 76ers,49,23,.681,2020-21,Eastern Conference,Milwaukee Bucks
+Brooklyn Nets,48,24,.667,2020-21,Eastern Conference,Milwaukee Bucks
+Milwaukee Bucks,46,26,.639,2020-21,Eastern Conference,Milwaukee Bucks
+New York Knicks,41,31,.569,2020-21,Eastern Conference,Milwaukee Bucks
+Atlanta Hawks,41,31,.569,2020-21,Eastern Conference,Milwaukee Bucks
+Miami Heat,40,32,.556,2020-21,Eastern Conference,Milwaukee Bucks
+Boston Celtics,36,36,.500,2020-21,Eastern Conference,Milwaukee Bucks
+Washington Wizards,34,38,.472,2020-21,Eastern Conference,Milwaukee Bucks
+Indiana Pacers,34,38,.472,2020-21,Eastern Conference,Milwaukee Bucks
+Charlotte Hornets,33,39,.458,2020-21,Eastern Conference,Milwaukee Bucks
+Chicago Bulls,31,41,.431,2020-21,Eastern Conference,Milwaukee Bucks
+Toronto Raptors,27,45,.375,2020-21,Eastern Conference,Milwaukee Bucks
+Cleveland Cavaliers,22,50,.306,2020-21,Eastern Conference,Milwaukee Bucks
+Orlando Magic,21,51,.292,2020-21,Eastern Conference,Milwaukee Bucks
+Detroit Pistons,20,52,.278,2020-21,Eastern Conference,Milwaukee Bucks
+Utah Jazz,52,20,.722,2020-21,Western Conference,Milwaukee Bucks
+Phoenix Suns,51,21,.708,2020-21,Western Conference,Milwaukee Bucks
+Denver Nuggets,47,25,.653,2020-21,Western Conference,Milwaukee Bucks
+Los Angeles Clippers,47,25,.653,2020-21,Western Conference,Milwaukee Bucks
+Dallas Mavericks,42,30,.583,2020-21,Western Conference,Milwaukee Bucks
+Portland Trail Blazers,42,30,.583,2020-21,Western Conference,Milwaukee Bucks
+Los Angeles Lakers,42,30,.583,2020-21,Western Conference,Milwaukee Bucks
+Golden State Warriors,39,33,.542,2020-21,Western Conference,Milwaukee Bucks
+Memphis Grizzlies,38,34,.528,2020-21,Western Conference,Milwaukee Bucks
+San Antonio Spurs,33,39,.458,2020-21,Western Conference,Milwaukee Bucks
+New Orleans Pelicans,31,41,.431,2020-21,Western Conference,Milwaukee Bucks
+Sacramento Kings,31,41,.431,2020-21,Western Conference,Milwaukee Bucks
+Minnesota Timberwolves,23,49,.319,2020-21,Western Conference,Milwaukee Bucks
+Oklahoma City Thunder,22,50,.306,2020-21,Western Conference,Milwaukee Bucks
+Houston Rockets,17,55,.236,2020-21,Western Conference,Milwaukee Bucks
+Milwaukee Bucks,56,17,.767,2019-20,Eastern Conference,Los Angeles Lakers
+Toronto Raptors,53,19,.736,2019-20,Eastern Conference,Los Angeles Lakers
+Boston Celtics,48,24,.667,2019-20,Eastern Conference,Los Angeles Lakers
+Indiana Pacers,45,28,.616,2019-20,Eastern Conference,Los Angeles Lakers
+Miami Heat,44,29,.603,2019-20,Eastern Conference,Los Angeles Lakers
+Philadelphia 76ers,43,30,.589,2019-20,Eastern Conference,Los Angeles Lakers
+Brooklyn Nets,35,37,.486,2019-20,Eastern Conference,Los Angeles Lakers
+Orlando Magic,33,40,.452,2019-20,Eastern Conference,Los Angeles Lakers
+Charlotte Hornets,23,42,.354,2019-20,Eastern Conference,Los Angeles Lakers
+Washington Wizards,25,47,.347,2019-20,Eastern Conference,Los Angeles Lakers
+Chicago Bulls,22,43,.338,2019-20,Eastern Conference,Los Angeles Lakers
+New York Knicks,21,45,.318,2019-20,Eastern Conference,Los Angeles Lakers
+Detroit Pistons,20,46,.303,2019-20,Eastern Conference,Los Angeles Lakers
+Atlanta Hawks,20,47,.299,2019-20,Eastern Conference,Los Angeles Lakers
+Cleveland Cavaliers,19,46,.292,2019-20,Eastern Conference,Los Angeles Lakers
+Los Angeles Lakers,52,19,.732,2019-20,Western Conference,Los Angeles Lakers
+Los Angeles Clippers,49,23,.681,2019-20,Western Conference,Los Angeles Lakers
+Denver Nuggets,46,27,.630,2019-20,Western Conference,Los Angeles Lakers
+Houston Rockets,44,28,.611,2019-20,Western Conference,Los Angeles Lakers
+Oklahoma City Thunder,44,28,.611,2019-20,Western Conference,Los Angeles Lakers
+Utah Jazz,44,28,.611,2019-20,Western Conference,Los Angeles Lakers
+Dallas Mavericks,43,32,.573,2019-20,Western Conference,Los Angeles Lakers
+Portland Trail Blazers,35,39,.473,2019-20,Western Conference,Los Angeles Lakers
+Memphis Grizzlies,34,39,.466,2019-20,Western Conference,Los Angeles Lakers
+Phoenix Suns,34,39,.466,2019-20,Western Conference,Los Angeles Lakers
+San Antonio Spurs,32,39,.451,2019-20,Western Conference,Los Angeles Lakers
+Sacramento Kings,31,41,.431,2019-20,Western Conference,Los Angeles Lakers
+New Orleans Pelicans,30,42,.417,2019-20,Western Conference,Los Angeles Lakers
+Minnesota Timberwolves,19,45,.297,2019-20,Western Conference,Los Angeles Lakers
+Golden State Warriors,15,50,.231,2019-20,Western Conference,Los Angeles Lakers
+Milwaukee Bucks,60,22,.732,2018-19,Eastern Conference,Toronto Raptors
+Toronto Raptors,58,24,.707,2018-19,Eastern Conference,Toronto Raptors
+Philadelphia 76ers,51,31,.622,2018-19,Eastern Conference,Toronto Raptors
+Boston Celtics,49,33,.598,2018-19,Eastern Conference,Toronto Raptors
+Indiana Pacers,48,34,.585,2018-19,Eastern Conference,Toronto Raptors
+Brooklyn Nets,42,40,.512,2018-19,Eastern Conference,Toronto Raptors
+Orlando Magic,42,40,.512,2018-19,Eastern Conference,Toronto Raptors
+Detroit Pistons,41,41,.500,2018-19,Eastern Conference,Toronto Raptors
+Charlotte Hornets,39,43,.476,2018-19,Eastern Conference,Toronto Raptors
+Miami Heat,39,43,.476,2018-19,Eastern Conference,Toronto Raptors
+Washington Wizards,32,50,.390,2018-19,Eastern Conference,Toronto Raptors
+Atlanta Hawks,29,53,.354,2018-19,Eastern Conference,Toronto Raptors
+Chicago Bulls,22,60,.268,2018-19,Eastern Conference,Toronto Raptors
+Cleveland Cavaliers,19,63,.232,2018-19,Eastern Conference,Toronto Raptors
+New York Knicks,17,65,.207,2018-19,Eastern Conference,Toronto Raptors
+Golden State Warriors,57,25,.695,2018-19,Western Conference,Toronto Raptors
+Denver Nuggets,54,28,.659,2018-19,Western Conference,Toronto Raptors
+Portland Trail Blazers,53,29,.646,2018-19,Western Conference,Toronto Raptors
+Houston Rockets,53,29,.646,2018-19,Western Conference,Toronto Raptors
+Utah Jazz,50,32,.610,2018-19,Western Conference,Toronto Raptors
+Oklahoma City Thunder,49,33,.598,2018-19,Western Conference,Toronto Raptors
+San Antonio Spurs,48,34,.585,2018-19,Western Conference,Toronto Raptors
+Los Angeles Clippers,48,34,.585,2018-19,Western Conference,Toronto Raptors
+Sacramento Kings,39,43,.476,2018-19,Western Conference,Toronto Raptors
+Los Angeles Lakers,37,45,.451,2018-19,Western Conference,Toronto Raptors
+Minnesota Timberwolves,36,46,.439,2018-19,Western Conference,Toronto Raptors
+Memphis Grizzlies,33,49,.402,2018-19,Western Conference,Toronto Raptors
+New Orleans Pelicans,33,49,.402,2018-19,Western Conference,Toronto Raptors
+Dallas Mavericks,33,49,.402,2018-19,Western Conference,Toronto Raptors
+Phoenix Suns,19,63,.232,2018-19,Western Conference,Toronto Raptors
